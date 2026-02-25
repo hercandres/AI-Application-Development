@@ -12,3 +12,5 @@ math_quiz -> Tests the user with a flexible number of questions, retuns the accu
 print_math -> Delivers a csv file with any desired amount of mathematical questions within a defined set of numbers, prints the questions and answer sheet.
 
 Ruled_Based_CHatbot -> Introduction to chatbots. Using a simple dic/list data structure this chatbot returns the answers with the most coincidences within a confined data set. Maybe a good first step towards collecting user imput to automatically append keywords to the data structure?
+
+lab04 -> This code builds a simple local RAG (Retrieval-Augmented Generation) system
